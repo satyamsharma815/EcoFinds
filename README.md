@@ -54,7 +54,7 @@ Create a user-friendly and engaging desktop + mobile-friendly platform that allo
 
 ## 📸 Demo Video
 
-🎥 **[Watch the Demo](https://your-demo-link.com)**  
+🎥 **[Watch the Demo](https://drive.google.com/file/d/1K6Y1ODTk-z7hMlctHgXAsGMDNS0MNdEX/view?usp=drive_link)**  
 > _(Click the link to see the full working flow of the application)_
 
 ---
