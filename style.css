@@ -1,0 +1,41 @@
+
+.card {
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 1rem;
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+
+.btn {
+  background-color: #16a34a; /* Tailwind green-600 */
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+}
+.btn:hover {
+  background-color: #15803d; /* Tailwind green-700 */
+}
+
+.input {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.25rem;
+}
+
+.header-title {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #047857; /* Tailwind green-700 */
+}
+
+.link {
+  color: #2563eb; /* Tailwind blue-600 */
+  text-decoration: underline;
+}
